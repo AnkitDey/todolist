@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    width: 100%;
+}
+
+nav{
+    background-color: rgb(3, 3, 39);
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+}
+
+.search-box{
+    height: 100%;
+    padding: 10px;
+}
+.todo-outer{
+    display: flex;
+    justify-content: center;
+   margin: 100px 0;
+   padding: 5.4rem;
+   
+}
+h1 {
+    font-size: 25px;
+}
